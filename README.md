@@ -1,2 +1,2 @@
-# GenerateImagesAPI
+# GeneratingImagesAPI
 Generating Images through an API
